@@ -1,0 +1,424 @@
+Boost log
+---------
+
+tic\runtime-link-static\threading-multi\import.obj
+import.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\exec.obj
+exec.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\object\function_doc_signature.obj
+function_doc_signature.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(287): warning C4244: 'initiali
+zing': conversion from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(294): warning C4244: '=': conv
+ersion from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(303): warning C4244: '=': conv
+ersion from 'boost::python::ssize_t' to 'int', possible loss of data
+msvc.archive bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-stat
+ic\runtime-link-static\threading-multi\libboost_python3-vc140-mt-sgd-1_65_1.lib
+common.copy stage\lib\libboost_python3-vc140-mt-sgd-1_65_1.lib
+bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-static\runtime-li
+nk-static\threading-multi\libboost_python3-vc140-mt-sgd-1_65_1.lib
+        1 file(s) copied.
+common.mkdir bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-stat
+ic\runtime-link-static\threading-multi\numpy
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\dtype.obj
+dtype.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\matrix.obj
+matrix.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\ndarray.obj
+ndarray.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(51): warning C4244: '*=': conversion from 'con
+st __int64' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(65): warning C4244: '*=': conversion from 'con
+st __int64' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(127): warning C4267: 'argument': conversion fr
+om 'size_t' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(215): warning C4244: 'initializing': conversio
+n from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(230): warning C4244: 'initializing': conversio
+n from 'boost::python::ssize_t' to 'int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\numpy.obj
+numpy.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+c:\local\boost_1_65_1\libs\python\src\numpy\numpy.cpp(22) : warning C4715: 'boos
+t::python::numpy::wrap_import_array': not all control paths return a value
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\scalars.obj
+scalars.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-sta
+tic\runtime-link-static\threading-multi\numpy\ufunc.obj
+ufunc.cpp
+C:\local\boost_1_65_1\boost/python/detail/caller.hpp(53): warning C4244: 'return
+': conversion from 'Py_ssize_t' to 'unsigned int', possible loss of data
+msvc.archive bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-stat
+ic\runtime-link-static\threading-multi\libboost_numpy3-vc140-mt-sgd-1_65_1.lib
+common.copy stage\lib\libboost_numpy3-vc140-mt-sgd-1_65_1.lib
+bin.v2\libs\python\build\msvc-14.0\debug\address-model-64\link-static\runtime-li
+nk-static\threading-multi\libboost_numpy3-vc140-mt-sgd-1_65_1.lib
+        1 file(s) copied.
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\list.obj
+list.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\list.cpp(58): warning C4244: 'return': conversion from 'boost::p
+ython::ssize_t' to 'long', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\long.obj
+long.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\dict.obj
+dict.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\tuple.obj
+tuple.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\str.obj
+str.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\slice.obj
+slice.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi\converter
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\converter\from_python.obj
+from_python.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\converter\registry.obj
+registry.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\converter\type_id.obj
+type_id.cpp
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi\object
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\enum.obj
+enum.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\enum.cpp(232): warning C4244: 'initializing': conversion
+from 'boost::python::ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\class.obj
+class.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\class.cpp(734): warning C4267: 'initializing': conversion
+ from 'size_t' to 'int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\function.obj
+function.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\function.cpp(757): warning C4244: 'argument': conversion
+from '__int64' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\inheritance.obj
+inheritance.cpp
+c:\local\boost_1_65_1\boost\graph\named_function_params.hpp(240) : warning C4172
+: returning address of local variable or temporary
+c:\local\boost_1_65_1\boost\graph\named_function_params.hpp(240) : warning C4172
+: returning address of local variable or temporary
+c:\local\boost_1_65_1\boost\graph\named_function_params.hpp(240) : warning C4172
+: returning address of local variable or temporary
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\life_support.obj
+life_support.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\pickle_support.obj
+pickle_support.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\pickle_support.cpp(49): warning C4244: '=': conversion fr
+om 'boost::python::ssize_t' to 'long', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\errors.obj
+errors.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\module.obj
+module.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\converter\builtin_converters.obj
+builtin_converters.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\converter\arg_to_python_base.obj
+arg_to_python_base.cpp
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\iterator.obj
+iterator.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\stl_iterator.obj
+stl_iterator.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object_protocol.obj
+object_protocol.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object_operators.obj
+object_operators.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\wrapper.obj
+wrapper.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\import.obj
+import.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\exec.obj
+exec.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\object\function_doc_signature.obj
+function_doc_signature.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(287): warning C4244: 'initiali
+zing': conversion from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(294): warning C4244: '=': conv
+ersion from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\object\function_doc_signature.cpp(303): warning C4244: '=': conv
+ersion from 'boost::python::ssize_t' to 'int', possible loss of data
+msvc.archive bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi\libboost_python3-vc140-mt-s-1_65_1.lib
+common.copy stage\lib\libboost_python3-vc140-mt-s-1_65_1.lib
+bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-static\runtime-
+link-static\threading-multi\libboost_python3-vc140-mt-s-1_65_1.lib
+        1 file(s) copied.
+common.mkdir bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi\numpy
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\dtype.obj
+dtype.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\matrix.obj
+matrix.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\ndarray.obj
+ndarray.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(51): warning C4244: '*=': conversion from 'con
+st __int64' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(65): warning C4244: '*=': conversion from 'con
+st __int64' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(127): warning C4267: 'argument': conversion fr
+om 'size_t' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(215): warning C4244: 'initializing': conversio
+n from 'boost::python::ssize_t' to 'int', possible loss of data
+libs\python\src\numpy\ndarray.cpp(230): warning C4244: 'initializing': conversio
+n from 'boost::python::ssize_t' to 'int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\numpy.obj
+numpy.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+c:\local\boost_1_65_1\libs\python\src\numpy\numpy.cpp(22) : warning C4715: 'boos
+t::python::numpy::wrap_import_array': not all control paths return a value
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\scalars.obj
+scalars.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+compile-c-c++ bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-s
+tatic\runtime-link-static\threading-multi\numpy\ufunc.obj
+ufunc.cpp
+.\boost/python/detail/caller.hpp(53): warning C4244: 'return': conversion from '
+Py_ssize_t' to 'unsigned int', possible loss of data
+msvc.archive bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-st
+atic\runtime-link-static\threading-multi\libboost_numpy3-vc140-mt-s-1_65_1.lib
+common.copy stage\lib\libboost_numpy3-vc140-mt-s-1_65_1.lib
+bin.v2\libs\python\build\msvc-14.0\release\address-model-64\link-static\runtime-
+link-static\threading-multi\libboost_numpy3-vc140-mt-s-1_65_1.lib
+        1 file(s) copied.
+...updated 96 targets...
+
+
+The Boost C++ Libraries were successfully built!
+
+The following directory should be added to compiler include paths:
+
+    C:\local\boost_1_65_1
+
+The following directory should be added to linker library paths:
+
+    C:\local\boost_1_65_1\stage\lib
+
+
+C:\local\boost_1_65_1>
+
+
+Visual Studio i Python
+------------------------
+
+----- Installing 'scipy' -----
+Collecting scipy
+  Downloading scipy-1.0.0-cp35-none-win_amd64.whl (30.8MB)
+Collecting numpy>=1.8.2 (from scipy)
+  Downloading numpy-1.13.3-cp35-none-win_amd64.whl (13.1MB)
+Installing collected packages: numpy, scipy
+Successfully installed numpy-1.13.3 scipy-1.0.0
+You are using pip version 8.1.1, however version 9.0.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+----- Successfully installed 'scipy' -----
+
+----- Installing 'scipy' -----
+Requirement already up-to-date: scipy in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages
+Requirement already up-to-date: numpy>=1.8.2 in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages (from scipy)
+----- Successfully installed 'scipy' -----
+
+----- Installing 'opencv-python' -----
+Collecting opencv-python
+  Downloading opencv_python-3.3.0.10-cp35-cp35m-win_amd64.whl (39.7MB)
+Requirement already up-to-date: numpy>=1.11.1 in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages (from opencv-python)
+Installing collected packages: opencv-python
+Successfully installed opencv-python-3.3.0.10
+----- Successfully installed 'opencv-python' -----
+
+----- Installing 'dlib' -----
+Collecting dlib
+  Downloading dlib-19.7.0.tar.gz (4.0MB)
+Installing collected packages: dlib
+  Running setup.py install for dlib: started
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: still running...
+    Running setup.py install for dlib: finished with status 'done'
+Successfully installed dlib-19.7.0
+----- Successfully installed 'dlib' -----
+
+----- Installing 'face_recognition' -----
+Collecting face_recognition
+  Downloading face_recognition-1.0.0-py2.py3-none-any.whl
+Collecting Pillow (from face_recognition)
+  Downloading Pillow-4.3.0-cp35-cp35m-win_amd64.whl (1.5MB)
+Requirement already up-to-date: scipy>=0.17.0 in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages (from face_recognition)
+Requirement already up-to-date: numpy in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages (from face_recognition)
+Collecting face-recognition-models>=0.2.0 (from face_recognition)
+  Downloading face_recognition_models-0.3.0.tar.gz (100.1MB)
+Collecting Click>=6.0 (from face_recognition)
+  Downloading click-6.7-py2.py3-none-any.whl (71kB)
+Requirement already up-to-date: dlib>=19.5 in c:\users\aleksandar\appdata\local\programs\python\python35\lib\site-packages (from face_recognition)
+Collecting olefile (from Pillow->face_recognition)
+  Downloading olefile-0.44.zip (74kB)
+Installing collected packages: olefile, Pillow, face-recognition-models, Click, face-recognition
+  Running setup.py install for olefile: started
+    Running setup.py install for olefile: finished with status 'done'
+  Running setup.py install for face-recognition-models: started
+    Running setup.py install for face-recognition-models: finished with status 'done'
+Successfully installed Click-6.7 Pillow-4.3.0 face-recognition-1.0.0 face-recognition-models-0.3.0 olefile-0.44
+----- Successfully installed 'face_recognition' ---
+
+CUDA log
+--------
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\extras\demo_suite>device
+Query.exe
+deviceQuery.exe Starting...
+
+ CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "GeForce 610M"
+  CUDA Driver Version / Runtime Version          9.0 / 9.0
+  CUDA Capability Major/Minor version number:    2.1
+  Total amount of global memory:                 2048 MBytes (2147483648 bytes)
+MapSMtoCores for SM 2.1 is undefined.  Default to use 64 Cores/SM
+MapSMtoCores for SM 2.1 is undefined.  Default to use 64 Cores/SM
+  ( 1) Multiprocessors, ( 64) CUDA Cores/MP:     64 CUDA Cores
+  GPU Max Clock rate:                            1700 MHz (1.70 GHz)
+  Memory Clock rate:                             800 Mhz
+  Memory Bus Width:                              64-bit
+  L2 Cache Size:                                 65536 bytes
+  Maximum Texture Dimension Size (x,y,z)         1D=(65536), 2D=(65536, 65535),
+3D=(2048, 2048, 2048)
+  Maximum Layered 1D Texture Size, (num) layers  1D=(16384), 2048 layers
+  Maximum Layered 2D Texture Size, (num) layers  2D=(16384, 16384), 2048 layers
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 32768
+  Warp size:                                     32
+  Maximum number of threads per multiprocessor:  1536
+  Maximum number of threads per block:           1024
+  Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+  Max dimension size of a grid size    (x,y,z): (65535, 65535, 65535)
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
+  Concurrent copy and kernel execution:          Yes with 1 copy engine(s)
+  Run time limit on kernels:                     Yes
+  Integrated GPU sharing Host Memory:            No
+  Support host page-locked memory mapping:       Yes
+  Alignment requirement for Surfaces:            Yes
+  Device has ECC support:                        Disabled
+  CUDA Device Driver Mode (TCC or WDDM):         WDDM (Windows Display Driver Mo
+del)
+  Device supports Unified Addressing (UVA):      Yes
+  Device PCI Domain ID / Bus ID / location ID:   0 / 1 / 0
+  Compute Mode:
+     < Default (multiple host threads can use ::cudaSetDevice() with device simu
+ltaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 9.0, CUDA Runtime Versi
+on = 9.0, NumDevs = 1, Device0 = GeForce 610M
+Result = PASS
