@@ -1,0 +1,10 @@
+
+
+To use this you have to include pre-trained model(the link is bellow) inside the folder where your "human_activity_reco.py" and "action_recognition_kinetics" is located.
+
+Link for pre-trained model: https://drive.google.com/open?id=1UkMe9zChUZhktin2MBYLrfQjx6V6UoSR
+
+
+
+
+
