@@ -1,0 +1,10 @@
+To use voice recognition you have to import unity package first in unity by clicking Assets->Import Package->Custom Package and then
+search for UnityExample.unitypackage.
+
+To use and edit android source code simply open Android Source Code folder in Android Studio and you can edit files there.
+When you finish editing just select Gradle tab from the right side of Android Studio window and go to Build->Assemble and 
+your file will be generated as aar inside build/outputs/aar folder where Android Project is located(in this case inside folder "Android
+Source Code/build/outputs/aar") then rename the .aar to .zip and extract it and you will get classes.jar and AndroidManifest.xml
+file . Simply copy those two files and put them in Unity's Assets/Plugin/Android folder of your project and replace other two to test it.
+
+
