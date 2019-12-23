@@ -1,0 +1,7 @@
+To use this first download german traffic sign model from https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/ .
+You will see "Download(300mb)" button simply click and register and then download. 
+
+After downloading create folder in the folder where these files are located and name it: gtsrb-german-traffic-sign
+and extract content from gtsrb-german-traffic-sign.zip in that folder.
+
+That is all. To use the file the instructions are in predict.py at the top commented.
