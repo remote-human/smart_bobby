@@ -1,0 +1,11 @@
+Anaconda: https://www.anaconda.com/products/individual
+Python https://www.python.org/
+Use Python from version 3.6
+
+Libs:
+- Tensorflow: https://www.tensorflow.org/
+- Keras: https://github.com/Kereas
+- OpenCV: https://opencv.org/
+- openpose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+- Dlib: http://dlib.net/
+- https://cmake.org/
